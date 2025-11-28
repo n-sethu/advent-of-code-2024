@@ -1,1 +1,4 @@
 input1.txt
+/venv
+/a.dSYM
+/.vscode
